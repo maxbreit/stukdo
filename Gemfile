@@ -54,3 +54,6 @@ gem "font-awesome-rails"
 # For Form creation
 gem "simple_form"
 
+# For Authentification (of forms)
+gem "devise"
+
