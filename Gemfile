@@ -43,8 +43,14 @@ group :development, :test do
   gem 'spring'
 end
 
+# For Bootstrap CSS / Javascript components - Layout
 gem "therubyracer"
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
 gem "twitter-bootstrap-rails"
 
+# For icons from font awesome
 gem "font-awesome-rails"
+
+# For Form creation
+gem "simple_form"
+
