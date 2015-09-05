@@ -57,3 +57,6 @@ gem "simple_form"
 # For Authentification (of forms)
 gem "devise"
 
+# Automatic file detection
+gem "auto_html"
+
